@@ -24,12 +24,12 @@ Includes admin/user roles and secure session management.
 1. Download the project:
 
    ```bash
-   git clone https://github.com/yousefelnopi/My-Blog.git
+   git clone https://github.com/yousefelnopi/blog_php.git
    ```
 
 2. Copy Project Files to XAMPP Folder:
 
-   Copy the `My-Blog` folder into the `htdocs` directory of your XAMPP installation, for example:
+   Copy the `blog_php` folder into the `htdocs` directory of your XAMPP installation, for example:
 
    `
    C:\xampp\htdocs\
