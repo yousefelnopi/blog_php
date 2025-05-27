@@ -1,4 +1,3 @@
-
 # Social Blog Web Application
 
 A social blogging platform built with PHP and MySQL (PDO). Allows users to register, post, react, comment, upload images, and explore others’ profiles.  
@@ -90,3 +89,5 @@ If you want to contribute to the project, you can fork the repo and open a pull 
 ## License
 
 This project is licensed under the MIT License
+
+README.md
